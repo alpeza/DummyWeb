@@ -1,6 +1,6 @@
 #!/bin/bash
 gitpush(){
-    git add -A; git commit -m "New commit"; git pushh
+    git add -A; git commit -m "New commit"; git push
 }
 
 source .env
