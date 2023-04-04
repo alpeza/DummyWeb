@@ -1,1 +1,1 @@
-docker tagname: "alpeza/mypipeline:1.0.0",  pullToRegistry: true
+docker tagname: "mypipeline:latest",  pullToRegistry: true
