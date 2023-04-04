@@ -1,1 +1,1 @@
-docker tagname: "mypipeline:latest",  pullToRegistry: true
+docker tagname: "mypipeline:latest",  pullToRegistry: true, username: 'pepe'
