@@ -1,1 +1,1 @@
-println("Hello from git !!!!")
+docker tagname: "alpeza/mypipeline:1.0.0",  pullToRegistry: true
