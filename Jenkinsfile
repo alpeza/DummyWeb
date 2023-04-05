@@ -1,4 +1,6 @@
+createDockerNetwork()
+
 docker tagname: "mypipeline:latest",  
-       pullToRegistry: true, 
+       pullToRegistry: false, 
        username: 'pepe'
 
