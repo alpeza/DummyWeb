@@ -1,6 +1,6 @@
 createDockerNetwork()
 
 docker tagname: "alpeza/mypipeline:latest",  
-       pullToRegistry: True, 
+       pullToRegistry: true, 
        username: 'pepe'
 
