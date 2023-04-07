@@ -5,7 +5,7 @@ app = Flask(__name__, static_url_path='/static')
 
 
 message = os.environ.get('MESSAGE', 'Hello World')
-port = int(os.environ.get('PORT', 5004))
+port = int(os.environ.get('PORT', 5000))
 host = os.environ.get('HOST', '0.0.0.0')
 
 

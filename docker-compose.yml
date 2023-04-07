@@ -1,7 +1,7 @@
 version: "3.9"
 services:
   web:
-    build: .
+    image: alpeza/dummyweb:0.0.1
     environment:
       MESSAGE: "Hello World"
       HOST: "0.0.0.0"
